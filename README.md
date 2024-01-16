@@ -1,5 +1,4 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-agent-report/assets/34819624/fe2398f7-a10f-47d8-aa95-05a7f67ea77f)
 
 # Como utilizar a extensão Agent Report!
 
